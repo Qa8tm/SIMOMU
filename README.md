@@ -1,10 +1,10 @@
 # SIMO MUSIC
 
-#للتنصيب
+# للتنصيب
 
 [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Qa8tm/SIMOMU)
 
-#المميزات
+# المميزات
 مميزات عديده:
 
 1 - تنزيل وتحميل الاغاني. 
